@@ -352,7 +352,7 @@
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="website"></string>
+     <string value="singlepage"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:Principal"></string>
      <string role="key" value="parent"></string>
@@ -704,7 +704,7 @@
                  <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                  <int value="2"></int>
                  <string role="key" value="exportType"></string>
-                 <string value="website"></string>
+                 <string value="singlepage"></string>
                  <string role="key" value="last_full_node_path"></string>
                  <string value="exe-node:Principal:Conceptos%20Generales:Los%20siete%20saberes%20para%20la%20educaci%C3%B3n%20del%20siglo%20XXI"></string>
                  <string role="key" value="parent"></string>
@@ -919,7 +919,7 @@
                  <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                  <int value="2"></int>
                  <string role="key" value="exportType"></string>
-                 <string value="website"></string>
+                 <string value="singlepage"></string>
                  <string role="key" value="last_full_node_path"></string>
                  <string value="exe-node:Principal:Conceptos%20Generales:Retos%20y%20Competencias"></string>
                  <string role="key" value="parent"></string>
@@ -1130,7 +1130,7 @@
                     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                     <int value="2"></int>
                     <string role="key" value="exportType"></string>
-                    <string value="website"></string>
+                    <string value="singlepage"></string>
                     <string role="key" value="last_full_node_path"></string>
                     <string value="exe-node:Principal:Conceptos%20Generales:Retos%20y%20Competencias:Retos"></string>
                     <string role="key" value="parent"></string>
@@ -1351,7 +1351,7 @@
                        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                        <int value="2"></int>
                        <string role="key" value="exportType"></string>
-                       <string value="website"></string>
+                       <string value="singlepage"></string>
                        <string role="key" value="last_full_node_path"></string>
                        <string value="exe-node:Principal:Conceptos%20Generales:Retos%20y%20Competencias:Retos:Competencias"></string>
                        <string role="key" value="parent"></string>
@@ -1582,7 +1582,7 @@
                  <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                  <int value="2"></int>
                  <string role="key" value="exportType"></string>
-                 <string value="website"></string>
+                 <string value="singlepage"></string>
                  <string role="key" value="last_full_node_path"></string>
                  <string value="exe-node:Principal:Conceptos%20Generales:TIC%20y%20Conectivismo"></string>
                  <string role="key" value="parent"></string>
@@ -1791,7 +1791,7 @@
                     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                     <int value="2"></int>
                     <string role="key" value="exportType"></string>
-                    <string value="website"></string>
+                    <string value="singlepage"></string>
                     <string role="key" value="last_full_node_path"></string>
                     <string value="exe-node:Principal:Conceptos%20Generales:TIC%20y%20Conectivismo:Competencias%20Digitales"></string>
                     <string role="key" value="parent"></string>
@@ -2014,7 +2014,7 @@
                     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                     <int value="2"></int>
                     <string role="key" value="exportType"></string>
-                    <string value="website"></string>
+                    <string value="singlepage"></string>
                     <string role="key" value="last_full_node_path"></string>
                     <string value="exe-node:Principal:Conceptos%20Generales:TIC%20y%20Conectivismo:Conectivismo"></string>
                     <string role="key" value="parent"></string>
@@ -2070,7 +2070,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="website"></string>
+        <string value="singlepage"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Principal:Conceptos%20Generales"></string>
         <string role="key" value="parent"></string>
@@ -3326,7 +3326,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="website"></string>
+        <string value="singlepage"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Principal:Actividades%20complementarias%20y%20de%20refuerzo"></string>
         <string role="key" value="parent"></string>
